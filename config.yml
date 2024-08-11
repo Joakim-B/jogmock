@@ -1,10 +1,10 @@
 strava:
-  email: ***
-  password: ***
-  app_version:  xxx.yy (zzzzzz) # Mobile App -> Settings in top right corner -> About -> Version
-  device_manufacturer: FakeBrand # ex: Xiaomi, Huawei
-  device_model: FakePhone F10 Pro # ex: Redmi Note 9 Pro, Huawei P30 Pro
-  device_os_version: 11 # ex: 10 (Android Q), 11 (Red Velvet Cake)
+  email: joaki6789@gmail.com
+  password: Okokok+1
+  app_version:  248.8 (1223885) # Mobile App -> Settings in top right corner -> About -> Version
+  device_manufacturer: Apple # ex: Xiaomi, Huawei
+  device_model: iPhone 11 Pro # ex: Redmi Note 9 Pro, Huawei P30 Pro
+  device_os_version: 17.4.1 (IOS) # ex: 10 (Android Q), 11 (Red Velvet Cake)
 
 # Speed wave generation options to be used during runs.
 # Since services such as strava draw the graphs of the speed,
